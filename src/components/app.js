@@ -10,13 +10,13 @@ import Projects from "./Projects"
 
 const App = () => {
   return (
-    <div className="app-layout">
+    <div  >
          <Navbar />
          <HomePage/>
          <About/>
-         <Skills/>
+         {/* <Skills/>
          <Projects/>
-         <ContactPage />
+         <ContactPage /> */}
          
     </div>
   )

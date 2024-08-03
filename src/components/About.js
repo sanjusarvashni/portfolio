@@ -1,8 +1,8 @@
 const About = () =>{
     return (
-        <div className="about">
-            <h1>About Me</h1>
-            <p>Hi, I’m Sanju Sarvashni, a passionate frontend developer with a focus on creating engaging and intuitive user experiences. I recently graduated in Computer Science and am excited to start my professional journey in web development.
+        <div className=" bg-slate-950 min-h-screen min-w-screen">
+
+            <p className="  px-28 py-24 text-justify font-mono text-white text-4xl leading-relaxed">Hi, I’m <span className=" text-yellow-200">Sanju Sarvashni</span> , a passionate frontend developer with a focus on creating engaging and intuitive user experiences. I recently graduated in Computer Science and am excited to start my professional journey in web development.
 
 I specialize in building dynamic and responsive web applications using React. My skills also include HTML, CSS, and JavaScript, with a keen interest in modern development practices and tools.
 
